@@ -1,0 +1,140 @@
+h1 {
+  margin: 0;
+  font-size: 5.62rem;
+  margin-top: 0;
+  padding-top: 48px;
+  font-family: Sacramento;
+  color: #66BFBF;
+}
+
+h2 {
+  margin: 0;
+  line-height: 2;
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: bolder;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+}
+
+p {
+  color: #40514E;
+  font-weight: bold;
+  line-height: 2;
+}
+
+a {
+  color: #11999E;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+hr {
+  color: #EAF6F6;
+  width: 10%;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0;
+  border-top: 10px dotted;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.web {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.cod {
+  width: 35%;
+  float: left;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px;
+  line-height: 2;
+  text-align: left;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.top1-container {
+  height: 350.67px;
+  width: 900.24px;
+  margin: 0 auto;
+  position: relative;
+  top: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.btn {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  height: 0;
+  line-height: 0;
+  color: #FFFFFF;
+  font-family: Arial;
+  width: 106px;
+  font-size: 16px;
+  font-weight: 200;
+  padding: 22px;
+  background-color: #66BFBF;
+  text-shadow: 1px 1px 20px #000000;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.bottom-container {
+  margin-top: 50px;
+  padding-top: 50px;
+  background-color: #66BFBF;
+}
+
+.bdes {
+  color: #EAF6F6;
+  margin-bottom: 0;
+  font-size: 0.75em;
+}
+
+.footer-link {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  color: #11999E;
+  text-decoration: none;
+  margin: 25px;
+}
